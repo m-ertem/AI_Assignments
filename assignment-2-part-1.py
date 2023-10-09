@@ -6,7 +6,9 @@ Created on Thu Oct  5 22:09:41 2023
 @author: mustafa
 """
 
-# Applying primitive gradient descent for a parabola
+# THIS CODE REPRESENTS FIRST PART OF THE HOMEWORK2
+
+
 # import numpy as np
 # import matplotlib.pyplot as plt
 
