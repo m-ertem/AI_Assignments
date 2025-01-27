@@ -34,6 +34,6 @@ In this project, I have used CIFAR-10 dataset in order to train ResNet-50 based 
 In this project the aim is to learn how VAE actually work.
 <br/> In order to do this first the numbers from 0-9 are encoded by mapping them to the latent space with probability distribution.
 <br/> The latent space is displayed.
-![image alt]()
+![image alt](https://github.com/m-ertem/AI_Assignments/blob/main/latent-space.png)
 <br/> Then the numbers are decoded from the latent space and displayed.
 ![image alt] ()
