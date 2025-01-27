@@ -22,6 +22,7 @@ In this assignment it has been asked to recognize cat and dog images.
 In this assignment youtube videos showing an UAV hovering throught the air, have been given to us.
 <br/> Our aim is to identify the UAV and draw a bounding box to it at each frame, and print an identification percentage.
 <br/> After the identification, by using the Kalman filter, we predicted the next position of the UAV at each frame and pointed it.
+<br/> ![image alt](https://github.com/m-ertem/AI_Assignments/blob/53f51193987ece76ef7bdf2132791303c2b13d4c/uav-detection.png)
 
 ## Project ResNet-50 Based CNN
 In this project, I have used CIFAR-10 dataset in order to train ResNet-50 based Convolutional Neural Network.
