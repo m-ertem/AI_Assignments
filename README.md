@@ -28,3 +28,4 @@ In this assignment youtube videos showing an UAV hovering throught the air, have
 In this project, I have used CIFAR-10 dataset in order to train ResNet-50 based Convolutional Neural Network.
 <br/> With 9 classes I trained the model and observed the sub-processes one-by-one. 
 <br/> As given in the CNN heatmap, it can be seen that aircraft's features are highlihted successfully.
+<br/> ![image alt](https://github.com/m-ertem/AI_Assignments/blob/eb4a1674efce757ff8d6ab15068d57838d2b11e4/resnet-cnn-layer.png)
